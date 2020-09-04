@@ -1,2 +1,2 @@
-# Lab-of-Computer-Organiziation
-HUST 组成原理实验
+# UGP-HustLab-ComputerOrganization
+[undergraduate course work in hust] Labs of computer organization course.
